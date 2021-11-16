@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @hasriza
+- 👀 I’m interested in Programming and Creative Problem Solving
+- 🌱 I’m currently learning ReactJs
+- 💞️ I’m looking to collaborate on technologies that require ReactJs 
+- 📫 How to reach me: mail: hasanriza12@gmail.com
+- 💼 Experience: Python, Ionic, HTML, PHP, ReactJs, React Native
