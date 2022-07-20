@@ -6,8 +6,8 @@
 - 💼 Experience: Python, Ionic, HTML, PHP, ReactJs, React Native
 
 Some of my work:
-[FoopWorks](https://test.foop.com) - Only Front-end for Computers
-[InterNotes](http://hasriza.github.io/internotes)
-[Portsplorer](http://hasriza.github.io/portsplorer)
-[K-Decor](https://kdecor.co.in/) Web site using Wix
-[Navigate Tech Services](https://www.navigatets.com/) Web site using Wix
+[FoopWorks](https://test.foop.com) - Only Front-end for Computers  
+[InterNotes](http://hasriza.github.io/internotes)  
+[Portsplorer](http://hasriza.github.io/portsplorer)  
+[K-Decor](https://kdecor.co.in/) Web site using Wix  
+[Navigate Tech Services](https://www.navigatets.com/) Web site using Wix  
