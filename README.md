@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on technologies that require ReactJs 
 - 📫 How to reach me: mail: hasanriza12@gmail.com
-- 💼 Experience: Python, Ionic, HTML, PHP, ReactJs, React Native
+- 💼 Experience: ReactJs, Javascript, Typescript, Git, CSS, Tailwind, AntD, NextJs, NextUI, FCM, Google Maps APIs, Python, React Native, Ionic, HTML, PHP, 
 
 Some of my work:  
 [Cleandesk Support](http://testsupport.cleandesk.co.in) - Only Front-end for Computer view  
