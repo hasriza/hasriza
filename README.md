@@ -6,7 +6,13 @@
 - 💼 Experience: Python, Ionic, HTML, PHP, ReactJs, React Native
 
 Some of my work:  
-[FoopWorks](https://test.foop.com) - Only Front-end for Computers  
+[Cleandesk Support](http://testsupport.cleandesk.co.in) - Only Front-end for Computer view
+[Cleandesk](https://test.cleandesk.co.in) - Only Front-end for Computer view
+Dummy credentials: 
+  Number: 9655526408 
+  OTP: 965552
+
+FoopWorks - Only Front-end for Computer view (now inactive)
 [InterNotes](http://hasriza.github.io/internotes)  
 [Portsplorer](http://hasriza.github.io/portsplorer)  
 [K-Decor](https://kdecor.co.in/) Web site using Wix  
