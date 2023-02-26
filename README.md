@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on technologies that require ReactJs 
 - 📫 How to reach me: mail: hasanriza12@gmail.com
-- 💼 Experience: ReactJs, Javascript, Typescript, Git, CSS, Tailwind, AntD, NextJs, NextUI, FCM, Google Maps APIs, Python, React Native, Ionic, HTML, PHP, 
+- 💼 Experience: ReactJs, Javascript, Typescript, Git, CSS, Tailwind, AntD, NextJs, NextUI, FCM, Socket Io, Google Maps APIs, Python, React Native, Ionic, HTML, PHP
 
 Some of my work:  
-[Cleandesk Support](http://testsupport.cleandesk.co.in) - Only Front-end for Computer view  
+[Cleandesk Support](http://testsupport.cleandesk.co.in) - Only Front-end for Computer view (under development)  
 [Cleandesk](https://test.cleandesk.co.in) - Only Front-end for Computer view  
 Dummy credentials:  
   Number: 9655526408  
