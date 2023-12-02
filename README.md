@@ -8,8 +8,10 @@
 Some of my work:  
 [Portfolio](https://zy-portfolio.vercel.app) - Personal Portfolio using NextJs
 
-[Cleandesk Support](http://testsupport.cleandesk.co.in) - Only Front-end for Computer view (under development)  
-[Cleandesk](https://test.cleandesk.co.in) - Only Front-end for Computer view  
+[FletNix]([https://zy-portfolio.vercel.app](https://fletnix-web.vercel.app/)) - FletNix showcasing CRUD in MERN
+
+Cleandesk Support - Only Front-end for Computer view (under development)  
+[Cleandesk](https://test.cleandesk.co.in/authentication) - Only Front-end for Computer view  
 Dummy credentials:  
   Number: 9655526408  
   OTP: 965552  
@@ -17,5 +19,4 @@ Dummy credentials:
 FoopWorks - Only Front-end for Computer view (now inactive)  
 [InterNotes](http://hasriza.github.io/internotes)  
 [Portsplorer](http://hasriza.github.io/portsplorer)  
-[K-Decor](https://kdecor.co.in/) Web site using Wix  
 [Navigate Tech Services](https://www.navigatets.com/) Web site using Wix  
