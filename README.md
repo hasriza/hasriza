@@ -8,7 +8,7 @@
 Some of my work:  
 [Portfolio](https://zy-portfolio.vercel.app) - Personal Portfolio using NextJs
 
-[FletNix]([https://zy-portfolio.vercel.app](https://fletnix-web.vercel.app/)) - FletNix showcasing CRUD in MERN
+[FletNix](https://fletnix-web.vercel.app/) - FletNix showcasing CRUD in MERN
 
 Cleandesk Support - Only Front-end for Computer view (under development)  
 [Cleandesk](https://test.cleandesk.co.in/authentication) - Only Front-end for Computer view  
