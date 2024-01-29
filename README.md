@@ -6,7 +6,7 @@
 - 💼 Experience: ReactJs, Javascript, Typescript, Git, CSS, Tailwind, AntD, NextJs, NextUI, FCM, Socket Io, Google Maps APIs, Python, React Native, Ionic, HTML, PHP
 
 Some of my work:  
-[MTGen](https://www.youtube.com/watch?v=AsBCHL3mXJE) - Automated Bulk Maintenance Generator and Summarizer using Google Sheets and Script
+[MTGen](https://www.youtube.com/watch?v=AsBCHL3mXJE) - Automated Bulk Maintenance Generator and Summarizer using Google Sheets and Script   
 [INGen](https://www.youtube.com/watch?v=s_c4RqqhxTc&feature=youtu.be) - Automated Bulk Invoice Generator and Summarizer using Google Sheets and Script
 
 [Portfolio](https://zy-portfolio.vercel.app) - Personal Portfolio using NextJs
